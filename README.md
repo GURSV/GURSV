@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm pursuing computer science engineering from CCET, Chandigarh. My intrigue <br>lies in AI, web development, and the fascination of analyzing data. Eager to <br>learn new concepts!
+I'm pursuing computer science engineering from CCET, Chandigarh. My intrigue <br>lies in Machine Learning, Web, and the fascination of analyzing data. Eager to <br>learn new concepts!
 
 
 ## 🌐 Socials:
