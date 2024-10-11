@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a senior Computer Science Engineering student set to graduate in 2025, I <br>possess a robust foundation in programming languages including C, C++, <br>Python, and Java, along with proficiency in Exploratory Data Analysis (EDA), <br>Machine Learning, Neural Network Models, Data Structures, DBMS, & MySQL. <br>Recognised for my adept problem-solving skills and innate curiosity, I am deeply <br>passionate about learning new technologies, particularly within the domain of <br>Machine Learning, Data, and Web. <br>Eager to leverage my expertise and enthusiasm to make a meaningful <br>contribution on a global scale within the software industry!
+As a senior Computer Science Engineering student set to graduate in 2025, I possess a robust foundation in programming languages including C, C++, Python, and Java, along with proficiency in Exploratory Data Analysis (EDA), Machine Learning, Neural Network Models, Data Structures, DBMS, & MySQL. Recognised for my adept problem-solving skills and innate curiosity, I am deeply passionate about learning new technologies, particularly within the domain of Machine Learning, Data, and Web.
 
 
 ## 🌐 Socials:
